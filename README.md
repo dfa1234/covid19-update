@@ -1,7 +1,46 @@
-# Getting Started with Create React App
+# Exercise: Covid-19 Daily Update
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*	Based on an open API, create a page with some Covid-19 info
+https://documenter.getpostman.com/view/4876530/SzRxUpPv?version=latest
 
+*	Display a page that contains the following elements
+
+    header section
+    footer section
+
+## Part 1 - Cases summary
+
+i.	calculate current list total of countries, confirmed cases and deaths
+ii.	calculate deaths precents ratio from all the confirmed cases
+
+```
+X Countries and Territories around the world have reported a total of Y confirmed cases of the coronavirus COVID-19 and a death toll of Z deaths.
+A ratio of N% Deaths from all confirmed cases
+```
+
+## Part 2 - Countries where COVID-19 has spread
+
+1. search filter (by country) that support lowercase and uppercase  
+   1.1 please add unit test (Jest or other) for search filter action  
+   1.2 the seach filter is not part of the list view - only influence on current items view on the list  
+2. list view of countries where COVID-19 has spread
+
+
+## Part 3 - Bonus - Daily New Cases
+
+Graph of daily new cases for specific country/worldwide
+(you can use any graph implementation you like)
+
+---
+
+Implementation Details
+•	The solution should be with React
+•	The page should be responsive.
+
+Try to pay attention to code design, quality and readability. Work iteratively. Invest up to ~3 hours. No need to invest too much.
+And of course: don’t hesitate to contact us with questions if the exercise requirements aren’t clear.
+
+---
 ## Available Scripts
 
 In the project directory, you can run:
