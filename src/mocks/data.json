@@ -1,0 +1,528 @@
+{
+  "timeStamp": "Last updated: March 05, 2020, 21:25 GMT",
+  "total": 88,
+  "countries": [
+    {
+      "name": "China",
+      "cases": 80430,
+      "deaths": 3013,
+      "continent": "Asia"
+    },
+    {
+      "name": "South Korea",
+      "cases": 6088,
+      "deaths": 40,
+      "continent": "Asia"
+    },
+    {
+      "name": "Italy",
+      "cases": 3858,
+      "deaths": 148,
+      "continent": "Europe"
+    },
+    {
+      "name": "Iran",
+      "cases": 3513,
+      "deaths": 108,
+      "continent": "Asia"
+    },
+    {
+      "name": "Japan (+Diamond Princess)",
+      "cases": 1057,
+      "deaths": 12,
+      "continent": "Asia"
+    },
+    {
+      "name": "Germany",
+      "cases": 543,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "France",
+      "cases": 423,
+      "deaths": 7,
+      "continent": "Europe"
+    },
+    {
+      "name": "Spain",
+      "cases": 282,
+      "deaths": 3,
+      "continent": "Europe"
+    },
+    {
+      "name": "United States",
+      "cases": 209,
+      "deaths": 12,
+      "continent": "North America"
+    },
+    {
+      "name": "Switzerland",
+      "cases": 118,
+      "deaths": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Singapore",
+      "cases": 117,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "United Kingdom",
+      "cases": 116,
+      "deaths": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Hong Kong",
+      "cases": 105,
+      "deaths": 2,
+      "continent": "Asia"
+    },
+    {
+      "name": "Sweden",
+      "cases": 94,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Norway",
+      "cases": 90,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Netherlands",
+      "cases": 82,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Kuwait",
+      "cases": 58,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Malaysia",
+      "cases": 55,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Bahrain",
+      "cases": 55,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Australia",
+      "cases": 53,
+      "deaths": 2,
+      "continent": "Australia/Oceania"
+    },
+    {
+      "name": "Belgium",
+      "cases": 50,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Thailand",
+      "cases": 47,
+      "deaths": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Taiwan",
+      "cases": 44,
+      "deaths": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Austria",
+      "cases": 43,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Canada",
+      "cases": 37,
+      "deaths": 0,
+      "continent": "North America"
+    },
+    {
+      "name": "Iraq",
+      "cases": 35,
+      "deaths": 3,
+      "continent": "Asia"
+    },
+    {
+      "name": "Iceland",
+      "cases": 35,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Greece",
+      "cases": 31,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "India",
+      "cases": 30,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "United Arab Emirates",
+      "cases": 28,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "San Marino",
+      "cases": 21,
+      "deaths": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Denmark",
+      "cases": 20,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Israel",
+      "cases": 17,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Algeria",
+      "cases": 17,
+      "deaths": 0,
+      "continent": "Africa"
+    },
+    {
+      "name": "Lebanon",
+      "cases": 16,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Oman",
+      "cases": 16,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Vietnam",
+      "cases": 16,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Ecuador",
+      "cases": 13,
+      "deaths": 0,
+      "continent": "South America"
+    },
+    {
+      "name": "Ireland",
+      "cases": 13,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Finland",
+      "cases": 12,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Czech Republic (Czechia)",
+      "cases": 12,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Macao",
+      "cases": 10,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Croatia",
+      "cases": 10,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Portugal",
+      "cases": 9,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Georgia",
+      "cases": 9,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Qatar",
+      "cases": 8,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Brazil",
+      "cases": 8,
+      "deaths": 0,
+      "continent": "South America"
+    },
+    {
+      "name": "State of Palestine",
+      "cases": 7,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Azerbaijan",
+      "cases": 6,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Mexico",
+      "cases": 6,
+      "deaths": 0,
+      "continent": "North America"
+    },
+    {
+      "name": "Belarus",
+      "cases": 6,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Romania",
+      "cases": 6,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Estonia",
+      "cases": 5,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Pakistan",
+      "cases": 5,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Saudi Arabia",
+      "cases": 5,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Russia",
+      "cases": 4,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Senegal",
+      "cases": 4,
+      "deaths": 0,
+      "continent": "Africa"
+    },
+    {
+      "name": "New Zealand",
+      "cases": 4,
+      "deaths": 0,
+      "continent": "Australia/Oceania"
+    },
+    {
+      "name": "Philippines",
+      "cases": 3,
+      "deaths": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Egypt",
+      "cases": 3,
+      "deaths": 0,
+      "continent": "Africa"
+    },
+    {
+      "name": "Chile",
+      "cases": 3,
+      "deaths": 0,
+      "continent": "South America"
+    },
+    {
+      "name": "Slovenia",
+      "cases": 3,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Morocco",
+      "cases": 2,
+      "deaths": 0,
+      "continent": "Africa"
+    },
+    {
+      "name": "Luxembourg",
+      "cases": 2,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Indonesia",
+      "cases": 2,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Hungary",
+      "cases": 2,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "cases": 2,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Lithuania",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Andorra",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Jordan",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Cambodia",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Afghanistan",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Sri Lanka",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Ukraine",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Dominican Republic",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "North America"
+    },
+    {
+      "name": "Nepal",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "North Macedonia",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Nigeria",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Africa"
+    },
+    {
+      "name": "Tunisia",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Africa"
+    },
+    {
+      "name": "Armenia",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Asia"
+    },
+    {
+      "name": "Latvia",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Monaco",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "South Africa",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Africa"
+    },
+    {
+      "name": "Argentina",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "South America"
+    },
+    {
+      "name": "Gibraltar",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Liechtenstein",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Europe"
+    },
+    {
+      "name": "Poland",
+      "cases": 1,
+      "deaths": 0,
+      "continent": "Europe"
+    }
+  ]
+}

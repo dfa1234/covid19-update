@@ -93,9 +93,11 @@ function App() {
             <Box className={classes.formWrapper}>
                 {isLoading && <CircularProgress/>}
                 <Paper component="form" className={classes.form}>
-                    <InputBase placeholder="Search Country"
-                               color="primary"
-                               onChange={searchTerm}
+                    <InputBase
+                        id="search-box"
+                        placeholder="Search Country"
+                        color="primary"
+                        onChange={searchTerm}
                     />
                     <IconButton type="submit" aria-label="search">
                         <SearchIcon/>
